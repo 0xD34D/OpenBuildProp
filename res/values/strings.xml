@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenBuildProp</string>
+    <string name="about_text">This app will upload the contents of \n/system/build.prop when you press the \"Submit build.prop\" button.  The goal is to create a comprehensive and open database of device build props with the help of the community. By clicking the button you agree to having the contents of your build.prop being made public.</string>
+    <string name="status_upload_success">build.prop successfully uploaded.\nThank you!</string>
+    <string name="status_upload_failure">build.prop upload failed.</string>
+</resources>
